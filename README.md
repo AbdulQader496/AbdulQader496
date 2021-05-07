@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AbdulQader496
-- 👀 I’m interested in ... software eng still lerning
+- 👀 I’m interested in ... software eng
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... gm.abdul.qader@gmail.com
