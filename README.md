@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning Django, MongoDB
 - 💞️ I’m looking to collaborate on any project
-- 📫 How to reach me ... email @ gm.abdul.qader@gmail.com
+- 📫 How to reach me @ gm.abdul.qader@gmail.com
 
 <!---
 AbdulQader496/AbdulQader496 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
