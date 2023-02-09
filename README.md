@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @AbdulQader496
 - 👀 I’m interested in Laravel, Python and Django
 - 🌱 I’m currently learning Laravel, Django, MongoDB
-- 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me @ gm.abdul.qader@gmail.com
 
 <!---
