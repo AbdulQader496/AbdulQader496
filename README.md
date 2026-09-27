@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @AbdulQader496
-- 👀 I’m interested in Laravel, Python and Django
-- 🌱 I’m currently learning Laravel, Django, MongoDB
-- 📫 How to reach me @ gm.abdul.qader@gmail.com
+- 👋 Hi, I’m Gulam M. A. Qader, a DevOps Engineer based in Dublin, Ireland
+- ☁️ I work with AWS, Kubernetes, Docker, Terraform and CI/CD
+- 🌐 Portfolio: https://mysite.gm-abdul-qader.workers.dev
+- 📫 How to reach me: gm.abdul.qader@gmail.com
+
 
 <!---
 AbdulQader496/AbdulQader496 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
